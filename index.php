@@ -9,7 +9,7 @@
     //     header('Location: https://hashenc.inventivetelecomhub.com');
     //     die();
     // }
-    session_start();
+    // session_start();
     if (isset($_SESSION['user'])){
         header('Location:hack/');
     }
