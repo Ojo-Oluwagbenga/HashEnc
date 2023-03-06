@@ -1,6 +1,5 @@
 $(document).ready(function(){
     
-
     $(".buttonpack #createacct").click(function(){
         let uname = $("#a-name input").val();
         let ucode = $("#a-code input").val();

@@ -10,9 +10,9 @@
     //     die();
     // }
     // session_start();
-    if (isset($_SESSION['user'])){
-        header('Location:hack/');
-    }
+    // if (isset($_SESSION['user'])){
+    //     header('Location:hack/');
+    // }
 
 ?>
 <!DOCTYPE html>
