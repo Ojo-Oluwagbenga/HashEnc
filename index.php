@@ -1,20 +1,4 @@
 
-<?php
-    // if (isset($_SERVER['HTTPS'])){
-    //     if ($_SERVER['HTTPS'] != 'on'){
-    //         header('Location: https://hashenc.inventivetelecomhub.com');
-    //         die();
-    //     }
-    // }else{
-    //     header('Location: https://hashenc.inventivetelecomhub.com');
-    //     die();
-    // }
-    // session_start();
-    // if (isset($_SESSION['user'])){
-    //     header('Location:hack/');
-    // }
-
-?>
 <!DOCTYPE html>
 <html lang="en"> 
                 
