@@ -275,7 +275,7 @@
             }
         </style>
 
-        <script src="manage.js"></script>
+        <script src="./manage.js"></script>
     </body>
 
           
